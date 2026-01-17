@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taylor</h1>
+<h1 align="left">Taylor Rath</h1>
 <h2><b>About Me</b></h2>
 <p> CIS Major at Wayne State College</p>
 
